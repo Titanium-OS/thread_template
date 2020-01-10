@@ -1,3 +1,5 @@
+[ROM][OFFICIAL][10.0.0_r23][DEVICE_CODENAME] TitaniumOS V 1.0 for * Device Name *
+
 [CENTER][img]https://i.imgur.com/cPgogg9.png[/img]
 
 [img]https://i.imgur.com/qOA7LQ6.png[/img]
@@ -40,32 +42,57 @@ Reboot[/SIZE]
 [img]https://i.imgur.com/P8rBCcX.png[/img]
 [HIDE][CODE][LIST]
 [U][B]STATUSBAR:[/B][/U]
-[*]Battery Icon Style
-[*]Clock and Date
-[*]Statusbar icons
-[*]Brightness Control
-[*]Show 4G icon instead LTE 
+• Carrier Label
+• DT2S on Statusbar
+• Network Traffic
+• Statusbar Icons
+• Roaming Indicator
 
 [U][B]LOCKSCREEN:[/B][/U]
-[*]
+• DT2S
+• Media Artwork
+• Media Artwork Blur
+• Music Visualiser
+• Force FP after Boot
+• FP Vibrations
+• Charging Info
 
 [U][B]QUICK SETTINGS:[/B][/U]
-[*]
+• Vibrate on Touch
+• Brightness Slider
+• Auto Brightness Icon
 
 [U][B]NAVIGATION BAR:[/B][/U]
-[*]
+• AOSP Gestures
 
 [U][B]NOTIFICATIONS:[/B][/U]
-[*]
+• Force Close Notifications
+• In Call Vibrations
+• Show Notification Count
+• Heads Up
 
 [U][B]MISC:[/B][/U]
-[*]
+• Swipe to Screenshot
+• Dashboard Settings
+
+[U][B]BATTERY:[/B][/U]
+• Wake Up on Charge
+• Aggressive Battery
+• Battery Bar
+
+[U][B]SCREEN:[/B][/U]
+• Rounded Corner Settings
 
 [U][B]ANIMATIONS:[/B][/U]
-[*]
+• Transition Animations
+• Wallpaper Animations
+• Toast Animations
+• List view Animations
+• Screen Off Animations
 
 [U][B]BUTTONS:[/B][/U]
-[*]
+• Power Menu Buttons 
+• Volume Rockers
 
 [/LIST][/CODE][/HIDE]
 [img]https://i.imgur.com/25PLOKB.png[/img]
@@ -79,10 +106,10 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 
 [img]https://i.imgur.com/C1LGndo.png[/img][SIZE="4"]
 
-[B]Saikat[/B] - Founder/Lead Developer
-[B]Nikesh[/B] - Android/Core Developer
-[B]Abhiraj[/B]  - Moderator/Core Developer
-[B]Sonal[/B]  - Customize/Core Developer
+[B]Saikat[/B] - Founder & Lead Developer
+[B]Nikesh[/B] - Lead Developer
+[B]Abhiraj[/B]  - Moderator & Developer
+[B]Sonal[/B]  - Lead Developer
 [B]Roger[/B]  - UI/UX Developer
 [B]Vivek[/B]  - UI/UX Developer [/SIZE]
 
@@ -91,11 +118,22 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [SIZE="5"][B]TitaniumOS Source[/URL][/B][/SIZE]
 [B][SIZE="3"][B][SIZE="4"][URL="https://github.com/Titanium-OS-Devices"]TitaniumOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
 [B][URL="http://t.me/TitaniumOS_Chat"]Telegram Group[/URL][/B]
-[B][URL="http://t.me/TitaniumOS_Updates"]Telegram Channel[/URL][/B][/SIZE]
+[B][URL="http://t.me/TitaniumOS_Updates"]Telegram Channel[/URL][/B]
+[B][URL="https://paypal.me/iamsaikat"]Support Us[/URL][/B][/SIZE]
 
 [img]https://i.imgur.com/AATWRH9.png[/img]
 As soon as the problem occurs, take a logcat! 
 [URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
+
+[SIZE=3][B]Broken / not yet supported: [/B][/SIZE]
+[LIST]
+[*] * add list *
+[/LIST]
+
+[SIZE=3][B]Working: [/B][/SIZE]
+[LIST]
+[*] * add list *
+[/LIST]
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE=3][B]TitaniumOS, ROM for *device* [/B][/SIZE]
