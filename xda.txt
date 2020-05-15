@@ -1,4 +1,4 @@
-[ROM][OFFICIAL][10.0.0_r23][DEVICE_CODENAME] TitaniumOS V 1.0 for * Device Name *
+[ROM][OFFICIAL][10.0.0_r35][DEVICE_CODENAME] TitaniumOS V 1.2 for * Device Name *
 
 [CENTER][img]https://i.imgur.com/cPgogg9.png[/img]
 
@@ -56,11 +56,16 @@ Reboot[/SIZE]
 • Force FP after Boot
 • FP Vibrations
 • Charging Info
+• FOD icon picker
+• FOD animation picker
+• Clock styles
+• Date styles
 
 [U][B]QUICK SETTINGS:[/B][/U]
 • Vibrate on Touch
 • Brightness Slider
 • Auto Brightness Icon
+• Header image
 
 [U][B]NAVIGATION BAR:[/B][/U]
 • AOSP Gestures
@@ -150,4 +155,4 @@ As soon as the problem occurs, take a logcat!
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] * current build status *
 [B]Current Stable Version:[/B] v1.0
-[B]Stable Release Date:[/B] 26-12-2019
+[B]Stable Release Date:[/B] 15-05-2020
